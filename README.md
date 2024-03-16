@@ -1,3 +1,2 @@
-# asmaul_husna_list1
-
-A new Flutter project.
+# Asmaul Husna List App
+Obtained from API https://github.com/haikelz/asmaul-husna-api
