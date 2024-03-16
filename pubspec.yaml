@@ -1,4 +1,4 @@
-name: asmaul_husna_list1
+name: Asmaul_Husna_List
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^4.6.6
+  google_fonts: ^6.2.1
+  http: ^1.2.0
 
 dev_dependencies:
   flutter_test:
